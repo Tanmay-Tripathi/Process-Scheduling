@@ -20,10 +20,6 @@ This project aims to provide an interactive platform for users to understand and
   - [2. Shortest Job First (SJF)](#2-shortest-job-first-sjf)
   - [3. Round Robin (RR)](#3-round-robin-rr)
   - [4. Preemptive Priority Scheduling](#4-preemptive-priority-scheduling)
-- [Data Structures](#data-structures)
-- [Collection Framework](#collection-framework)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Installation
 
