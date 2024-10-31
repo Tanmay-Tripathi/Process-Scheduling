@@ -45,4 +45,8 @@ public class Process {
     public void setTurnaroundTime(int turnaroundTime) {
         this.turnaroundTime = turnaroundTime;
     }
+
+    public void setBurstTime(int burstTime) {
+        this.burstTime = burstTime;
+    }
 }
