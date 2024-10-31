@@ -31,3 +31,10 @@ This project aims to provide an interactive platform for users to understand and
    ```bash
    git clone https://github.com/yourusername/job-scheduler.git
    cd job-scheduler
+2. **Compile the Java files:**
+   ```bash
+   javac *.java
+3. **Run the Application:***
+   ```bash
+   Java SchedulerMain.java
+
